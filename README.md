@@ -19,7 +19,6 @@
       text-decoration: none;
       transition: color 0.3s ease;
     }
-  </style>
 </head>
 <body>
   <h1 align="center">✨ Hi 👋, I'm Ana ✨</h1>
@@ -60,5 +59,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     </a>
   </p>
+  </style>
 </body>
 </html>
