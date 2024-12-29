@@ -1,16 +1,18 @@
 <style>
   body {
-    background-color: #1a1a2e;
-    color: #f0f0f0;
+    background-color: #0d0d1a;
+    color: #e6e6fa;
     font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
   }
   h1, h3 {
-    color: #ff00ff;
-    text-shadow: 0 0 15px #ff00ff, 0 0 30px #ff66ff;
+    color: #ff33cc;
+    text-shadow: 0 0 12px #ff33cc, 0 0 24px #ff66ff;
   }
   a:hover {
-    color: #ff66ff;
-    text-decoration: underline;
+    color: #ff99ff;
+    text-decoration: none;
+    transition: color 0.3s ease;
   }
 </style>
 
@@ -53,8 +55,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=minibitz&show_icons=true&locale=en&layout=compact&theme=radical" alt="minibitz"/>
-</p>
