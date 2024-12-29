@@ -1,3 +1,20 @@
+<style>
+  body {
+    background-color: #000000;
+    color: #d1b3ff;
+    font-family: 'Poppins', sans-serif;
+    line-height: 1.6;
+  }
+  h1, h3 {
+    color: #b266ff;
+    text-shadow: 0 0 15px #b266ff, 0 0 30px #d1b3ff;
+  }
+  a:hover {
+    color: #e0b3ff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+</style>
 
 <h1 align="center">✨ Hi 👋, I'm Ana ✨</h1>
 <h3 align="center">🎧 Audio & Software Engineer 💻</h3>
@@ -10,10 +27,10 @@
 <h3 align="center">🌸 Connect with me 🌸</h3>
 <p align="center">
   <a href="https://linkedin.com/in/ana paula ramos lopez" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-ff00ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img align="center" src="https://img.shields.io/badge/LinkedIn-b266ff?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.leetcode.com/minibitz" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LeetCode-ff66ff?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+    <img align="center" src="https://img.shields.io/badge/LeetCode-d1b3ff?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
 
