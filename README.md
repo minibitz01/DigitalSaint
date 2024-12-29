@@ -1,23 +1,4 @@
-<html>
-<head>
-  <style>
-    body {
-      background-color: #000000;
-      color: #d1b3ff;
-      font-family: 'Poppins', sans-serif;
-      line-height: 1.6;
-    }
-    h1, h3 {
-      color: #b266ff;
-      text-shadow: 0 0 15px #b266ff, 0 0 30px #d1b3ff;
-    }
-    a:hover {
-      color: #e0b3ff;
-      text-decoration: none;
-      transition: color 0.3s ease;
-    }
-  </style>
-</head>
+
 <body>
   <h1 align="center">✨ Hi 👋, I'm Ana ✨</h1>
   <h3 align="center">🎧 Audio & Software Engineer 💻</h3>
